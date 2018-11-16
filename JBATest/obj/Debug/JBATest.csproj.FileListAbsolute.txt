@@ -1,0 +1,11 @@
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\bin\Debug\JBATest.exe.config
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\bin\Debug\JBATest.exe
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\bin\Debug\JBATest.pdb
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\obj\Debug\JBATest.csprojAssemblyReference.cache
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\obj\Debug\JBATest.csproj.CoreCompileInputs.cache
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\obj\Debug\JBATest.exe
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\obj\Debug\JBATest.pdb
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\bin\Debug\Microsoft.SqlServer.Smo.dll
+X:\Users\Nargacuga\Documents\Visual Studio 2017\Projects\JBATest\JBATest\obj\Debug\JBATest.csproj.CopyComplete
